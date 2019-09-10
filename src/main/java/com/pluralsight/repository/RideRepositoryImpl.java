@@ -12,6 +12,8 @@ import com.pluralsight.model.Ride;
 @Repository("rideRepository")
 public class RideRepositoryImpl implements RideRepository {
 
+    //Just practicing some git stuff
+
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
 
